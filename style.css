@@ -21,6 +21,6 @@ a.top {
   text-align: center;
 }
 
-figcaption#caption{
-  font-size: color;
-}
+figcaption {
+  text-align: center;
+} 
