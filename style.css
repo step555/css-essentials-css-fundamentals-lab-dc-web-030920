@@ -17,4 +17,6 @@ img {
 a {
   padding: 10px;
   background-color: red;
+  font-size: 12;
+  text-align: center;
 }
