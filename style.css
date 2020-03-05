@@ -31,7 +31,7 @@ p#featured-property {
   margin-right: auto;     
 }
 
-section#details div {
+section#details {
 	display: block;
 	float: left;
 	text-align: center;
