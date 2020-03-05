@@ -31,3 +31,6 @@ p#featured-property {
   margin-right: auto;     
 }
 
+footer {
+  display: block;
+}
