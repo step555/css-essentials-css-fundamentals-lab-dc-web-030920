@@ -15,5 +15,6 @@ img {
 }
 
 a {
-  color: red;
+  padding: 10px;
+  background-color: gray;
 }
